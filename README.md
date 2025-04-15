@@ -155,4 +155,12 @@ This is **perfect for GitHub** because:
 
 ---
 
+## License
+This project is licensed under the MIT License.
 
+---
+
+## Author
+**Develope By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
+
+---
