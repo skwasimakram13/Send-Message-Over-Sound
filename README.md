@@ -155,10 +155,4 @@ This is **perfect for GitHub** because:
 
 ---
 
-If you want, I can:
-- Help you start the Android app or Web version
-- Create a modulation + decoding library for both platforms
-- Write a complete README + logo + demo ideas
-
-Say the word, agent 🕵️♂️🎧🚣️
 
